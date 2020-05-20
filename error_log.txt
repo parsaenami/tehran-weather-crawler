@@ -1,0 +1,303 @@
+===============================
+started at 2020-05-11 01:59:05.550874
+-------------------------------
+ ===============================
+started at 2020-05-11 01:59:51.896620
+-------------------------------
+ ===============================
+started at 2020-05-11 02:04:08.370973
+-------------------------------
+ ===============================
+started at 2020-05-11 02:05:04.667191
+-------------------------------
+ ===============================
+started at 2020-05-11 02:06:01.981146
+-------------------------------
+ information of 2010/2/6 did not load completely in first try at 2020-05-11 02:08:51.027636
+ information of 2010/2/8 did not load completely in first try at 2020-05-11 02:09:03.619660
+ information of 2010/2/10 did not load completely in first try at 2020-05-11 02:09:13.019165
+ information of 2010/2/22 did not load completely in first try at 2020-05-11 02:09:42.140900
+ information of 2010/3/13 did not load completely in first try at 2020-05-11 02:11:09.122397
+ information of 2010/3/20 did not load completely in first try at 2020-05-11 02:11:38.062135
+ information of 2010/3/22 did not load completely in first try at 2020-05-11 02:11:49.136795
+ information of 2010/4/23 did not load completely in first try at 2020-05-11 02:13:51.585749
+ information of 2010/6/20 did not load completely in first try at 2020-05-11 02:17:27.277440
+ information of 2010/6/22 did not load completely in first try at 2020-05-11 02:17:39.502643
+ information of 2010/6/28 did not load completely in first try at 2020-05-11 02:18:05.624944
+ information of 2010/7/31 did not load completely in first try at 2020-05-11 02:20:35.835980
+ information of 2010/8/21 did not load completely in first try at 2020-05-11 02:22:22.875949
+ information of 2010/8/26 did not load completely in first try at 2020-05-11 02:22:47.533331
+ information of 2010/8/29 did not load completely in first try at 2020-05-11 02:23:04.213683
+ information of 2010/9/11 did not load completely in first try at 2020-05-11 02:24:13.387351
+ information of 2010/11/11 did not load completely in first try at 2020-05-11 02:28:29.272690
+ information of 2010/11/12 did not load completely in first try at 2020-05-11 02:28:37.384829
+ information of 2010/11/17 did not load completely in first try at 2020-05-11 02:29:04.282573
+ information of 2010/11/19 did not load completely in first try at 2020-05-11 02:29:18.802960
+ information of 2011/1/16 did not load completely in first try at 2020-05-11 02:33:20.943673
+ information of 2011/4/22 did not load completely in first try at 2020-05-11 02:40:23.362751
+ information of 2011/4/30 did not load completely in first try at 2020-05-11 02:40:58.520875
+ information of 2011/5/26 did not load completely in first try at 2020-05-11 02:42:50.755824
+ information of 2011/8/27 did not load completely in first try at 2020-05-11 02:49:04.416953
+ information of 2011/8/29 did not load completely in first try at 2020-05-11 02:49:17.785029
+ information of 2011/9/6 did not load completely in first try at 2020-05-11 02:50:00.250915
+ information of 2011/11/16 did not load completely in first try at 2020-05-11 02:54:50.815209
+ information of 2011/11/27 did not load completely in first try at 2020-05-11 02:55:36.737230
+ information of 2011/11/28 did not load completely in first try at 2020-05-11 02:55:44.686895
+ information of 2011/12/4 did not load completely in first try at 2020-05-11 02:56:23.017337
+ information of 2011/12/20 did not load completely in first try at 2020-05-11 02:57:26.968840
+ information of 2011/12/25 did not load completely in first try at 2020-05-11 02:57:49.433888
+ information of 2012/1/10 did not load completely in first try at 2020-05-11 02:59:04.610117
+ information of 2012/2/10 did not load completely in first try at 2020-05-11 03:01:12.174783
+ information of 2012/3/11 did not load completely in first try at 2020-05-11 03:03:12.655453
+ information of 2012/4/18 did not load completely in first try at 2020-05-11 03:06:25.043845
+ information of 2012/4/30 did not load completely in first try at 2020-05-11 03:07:17.624579
+ information of 2012/5/8 did not load completely in first try at 2020-05-11 03:08:01.500480
+ information of 2012/5/11 did not load completely in first try at 2020-05-11 03:08:17.793119
+ information of 2012/5/12 did not load completely in first try at 2020-05-11 03:08:29.702582
+ information of 2012/5/19 did not load completely in first try at 2020-05-11 03:09:07.241787
+ information of 2012/6/7 did not load completely in first try at 2020-05-11 03:10:40.135239
+ information of 2012/8/15 did not load completely in first try at 2020-05-11 03:15:36.862815
+ information of 2012/8/16 did not load completely in first try at 2020-05-11 03:15:44.515170
+ information of 2012/8/26 did not load completely in first try at 2020-05-11 03:16:30.669222
+ information of 2012/9/10 did not load completely in first try at 2020-05-11 03:17:47.203338
+ information of 2012/10/8 did not load completely in first try at 2020-05-11 03:19:51.924431
+ information of 2012/12/12 did not load completely in first try at 2020-05-11 03:24:19.451669
+ information of 2013/1/27 did not load completely in first try at 2020-05-11 03:27:28.531630
+ information of 2013/1/30 did not load completely in first try at 2020-05-11 03:27:44.627023
+ information of 2013/1/31 did not load completely in first try at 2020-05-11 03:27:52.510152
+ information of 2013/2/21 did not load completely in first try at 2020-05-11 03:29:28.767187
+ Could not find temperature values 2020-05-11 03:32:11.202568
+===============================
+started at 2020-05-11 03:44:01.125786
+-------------------------------
+ information of 2010/3/15 did not load completely in first try at 2020-05-11 03:48:04.224114
+ information of 2010/3/16 did not load completely in first try at 2020-05-11 03:48:10.510854
+ information of 2010/3/22 did not load completely in first try at 2020-05-11 03:48:31.255855
+ information of 2010/9/26 did not load completely in first try at 2020-05-11 03:57:53.361627
+ information of 2010/9/30 did not load completely in first try at 2020-05-11 03:58:08.392077
+ information of 2010/10/5 did not load completely in first try at 2020-05-11 03:58:35.340902
+ information of 2010/12/13 did not load completely in first try at 2020-05-11 04:02:05.382524
+ information of 2011/1/2 did not load completely in first try at 2020-05-11 04:03:10.757894
+ information of 2011/1/9 did not load completely in first try at 2020-05-11 04:03:32.411279
+ information of 2011/1/10 did not load completely in first try at 2020-05-11 04:03:38.614687
+ information of 2011/1/12 did not load completely in first try at 2020-05-11 04:03:47.548737
+ information of 2011/1/22 did not load completely in first try at 2020-05-11 04:04:19.296408
+ information of 2011/1/23 did not load completely in first try at 2020-05-11 04:04:25.641493
+ information of 2011/1/26 did not load completely in first try at 2020-05-11 04:04:39.309715
+ information of 2011/1/28 did not load completely in first try at 2020-05-11 04:04:50.409889
+ information of 2011/2/15 did not load completely in first try at 2020-05-11 04:05:53.425354
+ ===============================
+started at 2020-05-11 16:42:08.550176
+-------------------------------
+ information of 2010/3/3 did not load completely in first try at 2020-05-11 16:45:14.960564
+ information of 2010/3/16 did not load completely in first try at 2020-05-11 16:45:52.263005
+ information of 2010/6/22 did not load completely in first try at 2020-05-11 16:50:41.807231
+ information of 2010/6/28 did not load completely in first try at 2020-05-11 16:51:01.372593
+ information of 2010/7/7 did not load completely in first try at 2020-05-11 16:51:39.749694
+ information of 2010/8/21 did not load completely in first try at 2020-05-11 16:53:54.772667
+ information of 2010/8/23 did not load completely in first try at 2020-05-11 16:54:03.835821
+ information of 2010/12/24 did not load completely in first try at 2020-05-11 17:00:24.387947
+ information of 2011/2/25 did not load completely in first try at 2020-05-11 17:03:43.855769
+ information of 2011/11/30 did not load completely in first try at 2020-05-11 17:18:49.222009
+ information of 2011/12/14 did not load completely in first try at 2020-05-11 17:19:38.014473
+ information of 2012/2/18 did not load completely in first try at 2020-05-11 17:23:10.618595
+ information of 2012/2/21 did not load completely in first try at 2020-05-11 17:23:20.689400
+ information of 2012/7/2 did not load completely in first try at 2020-05-11 17:32:30.165099
+ information of 2012/8/13 did not load completely in first try at 2020-05-11 17:35:13.849090
+ information of 2012/8/15 did not load completely in first try at 2020-05-11 17:35:24.645449
+ information of 2012/8/16 did not load completely in first try at 2020-05-11 17:35:31.527581
+ information of 2012/8/22 did not load completely in first try at 2020-05-11 17:35:54.903852
+ ===============================
+started at 2020-05-11 18:14:52.824410
+-------------------------------
+ ===============================
+started at 2020-05-11 19:35:04.751322
+-------------------------------
+ ===============================
+started at 2020-05-11 19:40:31.167511
+-------------------------------
+ information of 2010/2/10 did not load completely in first try at 2020-05-11 19:42:37.186722
+information of 2010/3/10 did not load completely in first try at 2020-05-11 19:43:49.600047
+information of 2010/5/20 did not load completely in first try at 2020-05-11 19:47:14.888952
+information of 2010/7/3 did not load completely in first try at 2020-05-11 19:49:25.811866
+information of 2010/7/7 did not load completely in first try at 2020-05-11 19:49:39.784336
+information of 2010/7/15 did not load completely in first try at 2020-05-11 19:50:03.156890
+information of 2011/4/11 did not load completely in first try at 2020-05-11 20:03:36.360328
+information of 2011/4/15 did not load completely in first try at 2020-05-11 20:03:50.565967
+===============================
+started at 2020-05-11 20:26:02.562110
+-------------------------------
+ information of 2010/1/5 did not load completely in first try at 2020-05-11 20:26:22.693217
+information of 2010/5/18 did not load completely in first try at 2020-05-11 20:32:46.209168
+===============================
+started at 2020-05-11 20:43:56.232208
+-------------------------------
+ information of 2010/1/9 did not load completely in first try at 2020-05-11 20:44:34.551631
+information of 2010/1/11 did not load completely in first try at 2020-05-11 20:44:43.292823
+Error in precipitation 2020-05-11 20:46:00.912296
+===============================
+started at 2020-05-11 20:49:27.613594
+-------------------------------
+ ===============================
+started at 2020-05-11 20:53:20.039061
+-------------------------------
+ information of 2010/1/23 did not load completely in first try at 2020-05-11 20:54:27.392493
+===============================
+started at 2020-05-11 20:56:12.425303
+-------------------------------
+ Error in precipitation 2020-05-11 20:57:54.816818
+===============================
+started at 2020-05-11 21:03:48.666426
+-------------------------------
+ ===============================
+started at 2020-05-11 21:05:44.354688
+-------------------------------
+ information of 2010/1/5 did not load completely in first try at 2020-05-11 21:06:00.198241
+information of 2010/1/9 did not load completely in first try at 2020-05-11 21:06:12.648121
+information of 2010/1/11 did not load completely in first try at 2020-05-11 21:06:19.635127
+information of 2010/1/12 did not load completely in first try at 2020-05-11 21:06:25.094707
+information of 2010/1/16 did not load completely in first try at 2020-05-11 21:06:36.399042
+information of 2010/1/18 did not load completely in first try at 2020-05-11 21:06:43.354264
+information of 2010/1/22 did not load completely in first try at 2020-05-11 21:06:54.280313
+information of 2010/1/23 did not load completely in first try at 2020-05-11 21:06:59.917221
+information of 2010/1/25 did not load completely in first try at 2020-05-11 21:07:07.192390
+information of 2010/1/27 did not load completely in first try at 2020-05-11 21:07:14.237769
+information of 2010/1/28 did not load completely in first try at 2020-05-11 21:07:19.436314
+information of 2010/1/30 did not load completely in first try at 2020-05-11 21:07:26.338773
+Error in precipitation 2020-05-11 21:07:40.774173
+===============================
+started at 2020-05-11 21:11:25.543557
+-------------------------------
+ information of 2010/1/5 did not load completely in first try at 2020-05-11 21:11:43.315075
+information of 2010/1/9 did not load completely in first try at 2020-05-11 21:11:53.450420
+information of 2010/1/11 did not load completely in first try at 2020-05-11 21:12:00.164580
+information of 2010/1/12 did not load completely in first try at 2020-05-11 21:12:05.191909
+information of 2010/1/16 did not load completely in first try at 2020-05-11 21:12:15.116099
+information of 2010/1/18 did not load completely in first try at 2020-05-11 21:12:21.835149
+information of 2010/1/22 did not load completely in first try at 2020-05-11 21:12:32.376072
+information of 2010/1/23 did not load completely in first try at 2020-05-11 21:12:37.532255
+information of 2010/1/25 did not load completely in first try at 2020-05-11 21:12:44.424664
+information of 2010/1/27 did not load completely in first try at 2020-05-11 21:12:51.383576
+information of 2010/1/28 did not load completely in first try at 2020-05-11 21:12:56.526106
+information of 2010/1/30 did not load completely in first try at 2020-05-11 21:13:03.456882
+information of 2010/2/6 did not load completely in first try at 2020-05-11 21:13:30.596667
+information of 2010/2/8 did not load completely in first try at 2020-05-11 21:13:37.223240
+information of 2010/2/10 did not load completely in first try at 2020-05-11 21:13:43.179467
+information of 2010/2/22 did not load completely in first try at 2020-05-11 21:13:54.294515
+Error in precipitation 2020-05-11 21:14:10.600401
+===============================
+started at 2020-05-11 21:20:17.580240
+-------------------------------
+ information of 2010/1/23 did not load completely in first try at 2020-05-11 21:21:36.237257
+information of 2010/1/27 did not load completely in first try at 2020-05-11 21:21:52.953377
+information of 2010/1/28 did not load completely in first try at 2020-05-11 21:21:59.741065
+information of 2010/2/22 did not load completely in first try at 2020-05-11 21:23:15.205033
+information of 2010/3/10 did not load completely in first try at 2020-05-11 21:24:30.087787
+information of 2010/6/2 did not load completely in first try at 2020-05-11 21:29:09.149187
+information of 2010/6/3 did not load completely in first try at 2020-05-11 21:29:15.496712
+information of 2010/6/12 did not load completely in first try at 2020-05-11 21:29:43.086341
+information of 2010/6/22 did not load completely in first try at 2020-05-11 21:30:14.954322
+information of 2010/8/19 did not load completely in first try at 2020-05-11 21:33:34.015852
+information of 2010/8/21 did not load completely in first try at 2020-05-11 21:33:43.841942
+information of 2010/8/26 did not load completely in first try at 2020-05-11 21:34:02.351346
+Error in precipitation 2020-05-11 21:36:10.243602
+===============================
+started at 2020-05-11 21:47:10.092867
+-------------------------------
+ information of 2010/1/18 did not load completely in first try at 2020-05-11 21:48:31.380581
+information of 2010/1/27 did not load completely in first try at 2020-05-11 21:49:04.116857
+information of 2010/2/10 did not load completely in first try at 2020-05-11 21:50:47.692696
+information of 2010/2/23 did not load completely in first try at 2020-05-11 21:51:11.254627
+information of 2010/3/10 did not load completely in first try at 2020-05-11 21:52:11.895223
+information of 2010/3/13 did not load completely in first try at 2020-05-11 21:52:23.118514
+information of 2010/3/16 did not load completely in first try at 2020-05-11 21:52:34.331654
+information of 2010/3/22 did not load completely in first try at 2020-05-11 21:52:55.115428
+information of 2010/4/8 did not load completely in first try at 2020-05-11 21:54:29.194579
+information of 2010/4/15 did not load completely in first try at 2020-05-11 21:54:52.677506
+information of 2010/4/27 did not load completely in first try at 2020-05-11 21:55:30.176327
+information of 2010/4/30 did not load completely in first try at 2020-05-11 21:55:42.386861
+information of 2010/5/7 did not load completely in first try at 2020-05-11 21:56:42.770701
+information of 2010/5/23 did not load completely in first try at 2020-05-11 21:57:31.824626
+information of 2010/6/6 did not load completely in first try at 2020-05-11 21:59:00.561932
+information of 2010/6/8 did not load completely in first try at 2020-05-11 21:59:09.064605
+information of 2010/6/9 did not load completely in first try at 2020-05-11 21:59:15.118874
+information of 2010/7/13 did not load completely in first try at 2020-05-11 22:01:35.301302
+information of 2010/7/15 did not load completely in first try at 2020-05-11 22:01:43.975920
+information of 2010/7/31 did not load completely in first try at 2020-05-11 22:02:30.943954
+Error in precipitation 2020-05-11 22:02:43.546236
+===============================
+started at 2020-05-11 22:10:28.510235
+-------------------------------
+ information of 2010/3/22 did not load completely in first try at 2020-05-11 22:14:36.488276
+information of 2010/3/24 did not load completely in first try at 2020-05-11 22:14:45.598957
+Error in precipitation 2020-05-11 22:16:46.118958
+===============================
+started at 2020-05-11 22:50:47.333333
+-------------------------------
+ information of 2010/3/5 did not load completely in first try at 2020-05-11 22:54:45.719979
+information of 2010/3/10 did not load completely in first try at 2020-05-11 22:55:01.710242
+information of 2010/4/8 did not load completely in first try at 2020-05-11 22:56:55.128964
+information of 2010/4/27 did not load completely in first try at 2020-05-11 22:57:50.294636
+information of 2010/5/20 did not load completely in first try at 2020-05-11 22:59:02.009355
+information of 2010/5/27 did not load completely in first try at 2020-05-11 22:59:23.364860
+-------------------------------
+finished at 2020-05-11 22:59:40.733620
+===============================
+ ===============================
+started at 2020-05-11 23:03:41.750549
+-------------------------------
+ information of 2010/6/5 did not load completely in first try at 2020-05-11 23:19:02.037338
+information of 2012/6/24 did not load completely in first try at 2020-05-12 00:37:51.700541
+information of 2012/10/20 did not load completely in first try at 2020-05-12 00:49:43.260432
+information of 2013/2/17 did not load completely in first try at 2020-05-12 01:02:05.407804
+information of 2014/8/6 did not load completely in first try at 2020-05-12 01:59:33.181453
+information of 2016/8/17 did not load completely in first try at 2020-05-12 03:17:10.910543
+information of 2017/4/27 did not load completely in first try at 2020-05-12 03:47:53.312130
+information of 2017/11/29 did not load completely in first try at 2020-05-12 04:12:30.475557
+information of 2018/12/23 did not load completely in first try at 2020-05-12 04:57:36.044039
+Error in precipitation 2020-05-12 05:29:04.696613
+===============================
+started at 2020-05-12 05:33:55.578752
+-------------------------------
+ information of 2020/1/31 did not load completely in first try at 2020-05-12 06:13:08.711709
+Error in precipitation 2020-05-12 06:24:10.722089
+===============================
+started at 2020-05-12 08:06:04.712050
+-------------------------------
+Error in precipitation 2020-05-12 08:21:35.878432
+===============================
+started at 2020-05-12 08:28:18.781996
+-------------------------------
+===============================
+started at 2020-05-12 08:30:49.094122
+-------------------------------
+Error in precipitation 2020-05-12 08:34:14.279680
+===============================
+started at 2020-05-12 08:38:49.477292
+-------------------------------
+===============================
+started at 2020-05-12 08:54:56.871407
+-------------------------------
+Error in precipitation 2020-05-12 09:09:28.086696
+===============================
+started at 2020-05-12 09:26:26.813868
+-------------------------------
+Error in precipitation 2020-05-12 09:33:17.883479
+===============================
+started at 2020-05-12 09:50:25.143779
+-------------------------------
+Error in precipitation 2020-05-12 09:56:54.536177
+===============================
+started at 2020-05-12 10:00:39.016209
+-------------------------------
+Error in precipitation 2020-05-12 10:15:17.778009
+===============================
+started at 2020-05-12 10:18:14.343751
+-------------------------------
+===============================
+started at 2020-05-12 10:26:57.436478
+-------------------------------
+-------------------------------
+finished at 2020-05-12 10:43:08.282027
+===============================
+Error in precipitation 2020-05-12 11:53:25.813804
